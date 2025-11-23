@@ -1,5 +1,8 @@
 # WINDOWS  
 
-##DISKPART WOES
+## DISKPART WOES
 https://www.diskpart.com/articles/healthy-primary-partition-raw-5740.html  
 ^ used fixed #2 on the page... was having issue with creating ISOs on a thumb drive e.g. partition raw, failed to clean from DISKPART, can't format or partition in Disk Management ect.
+
+## CREATE INSTALL USB
+https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d
